@@ -26,7 +26,7 @@
       "users": [
         {
           "username": "nuofang",
-          "password": "Zhu@991921514"
+          "password": "Zhu991921514"
         }
       ],
       "tcp_fast_open": true,
@@ -58,31 +58,6 @@
         "alpn": ["h3"]
       },
       "brutal_debug": true
-    },
-    {
-      "type": "vless",
-      "tag": "vless-in",
-      "listen": "0.0.0.0",
-      "listen_port": 52057,
-      "users": [
-        {
-          "name": "nuofang",
-          "uuid": "b6b73bf9-0422-4b22-8a1d-1e2804389c05",
-          "flow": "xtls-rprx-vision"
-        }
-      ],
-      "tls": {
-        "enabled": true,
-        "certificate_path": "./cert.crt",
-        "key_path": "./private.key",
-        "server_name": "www.bing.com",
-        "insecure": true,
-        "alpn": ["h3"]
-      },
-      "multiplex": {
-        "enabled": true,
-        "padding": false
-      }
     }
   ],
   "outbounds": [
