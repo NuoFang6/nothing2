@@ -67,7 +67,8 @@
       "users": [
         {
           "name": "nuofang",
-          "uuid": "b6b73bf9-0422-4b22-8a1d-1e2804389c05"
+          "uuid": "b6b73bf9-0422-4b22-8a1d-1e2804389c05",
+          "flow": "xtls-rprx-vision"
         }
       ],
       "tls": {
