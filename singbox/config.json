@@ -84,7 +84,6 @@
             "server_port": 443
           },
           "private_key": "MGm7Zt2Tig3Y1BoTbpE9mV-MPNEArZEoWrUDRO6LdmA",
-          "pubilc_key": "5na51-r3sqExTlIfJl5OdevM0-KjYwKP_zqKtYOT2jU",
           "short_id": ["0123456789abcdef"],
           "max_time_difference": "1m"
         }
