@@ -25,7 +25,9 @@
       "listen_port": 52055,
       "tcp_fast_open": true,
       "tcp_multi_path": true,
-      "sniff": false,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "sniff_timeout": "200ms",
       "users": [
         {
           "username": "nuofang",
@@ -40,7 +42,9 @@
       "listen_port": 52057,
       "tcp_fast_open": true,
       "tcp_multi_path": true,
-      "sniff": false,
+      "sniff": true,
+      "sniff_override_destination": true,
+      "sniff_timeout": "200ms",
       "users": [
         {
           "name": "nuofang",
