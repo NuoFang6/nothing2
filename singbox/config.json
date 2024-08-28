@@ -91,7 +91,7 @@
       },
       {
         "ip_version": 6,
-        "outbound": "block"
+        "outbound": "WARP"
       },
       {
         "rule_set": ["telegram"],
