@@ -86,6 +86,10 @@
         "outbound": "WARP"
       },
       {
+        "ip_version": 6,
+        "outbound": "WARP"
+      },
+      {
         "rule_set": ["telegram"],
         "outbound": "direct"
       }
