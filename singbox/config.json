@@ -118,7 +118,7 @@
       "enabled": true
     },
     "clash_api": {
-      "external_controller": "0.0.0.0:52056",
+      "external_controller": "127.0.0.1:52056",
       "secret": "Zhu@991921514"
     }
   },
