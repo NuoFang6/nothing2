@@ -14,7 +14,7 @@
       }
     ],
     "final": "cfdns",
-    "strategy": "ipv4_only",
+    "strategy": "prefer_ipv4",
     "reverse_mapping": true
   },
   "inbounds": [
