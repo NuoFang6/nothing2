@@ -1,1 +1,7 @@
 "pubilc_key": "5na51-r3sqExTlIfJl5OdevM0-KjYwKP_zqKtYOT2jU",
+{
+        "type": "ws",
+        "path": "/vless",
+        "max_early_data": 2048,
+        "early_data_header_name": "Sec-WebSocket-Protocol"
+      }
