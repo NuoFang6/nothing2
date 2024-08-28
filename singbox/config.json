@@ -119,12 +119,7 @@
     },
     "clash_api": {
       "external_controller": "0.0.0.0:52056",
-      "secret": "Zhu@991921514",
-      "access_control_allow_origin": [
-        "http://127.0.0.1",
-        "http://metacubex.github.io"
-      ],
-      "access_control_allow_private_network": true
+      "secret": "Zhu@991921514"
     }
   },
   "ntp": {
