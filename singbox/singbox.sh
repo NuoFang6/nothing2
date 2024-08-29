@@ -1,0 +1,1 @@
+nohup ./sing-box run &
